@@ -1,0 +1,407 @@
+{
+  "ads": [
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR08507214432412106753",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR08507214432412106753",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-03-20T13:17:06.000Z",
+      "lastShown": "2025-06-13T19:47:23.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR14245002770900844545",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR14245002770900844545",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-05-13T14:39:44.000Z",
+      "lastShown": "2025-06-14T20:46:35.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR14697183799771398145",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR14697183799771398145",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-06-12T17:51:36.000Z",
+      "lastShown": "2025-06-14T20:46:33.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR00873711951346139137",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR00873711951346139137",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-02-10T05:02:26.000Z",
+      "lastShown": "2025-06-14T20:46:24.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR01037493262094434305",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR01037493262094434305",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2022-02-01T19:07:48.000Z",
+      "lastShown": "2025-06-14T20:46:23.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR00569496772070604801",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR00569496772070604801",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-05-26T04:01:52.000Z",
+      "lastShown": "2025-06-14T20:46:17.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR05527264245823045633",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR05527264245823045633",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-05-15T07:00:00.000Z",
+      "lastShown": "2025-06-14T20:46:15.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR01074402235351302145",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR01074402235351302145",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-01-09T22:48:30.000Z",
+      "lastShown": "2025-06-14T20:46:10.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR03499572664547147777",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR03499572664547147777",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-06-12T17:53:13.000Z",
+      "lastShown": "2025-06-14T20:45:11.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR05131935613150298113",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR05131935613150298113",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2021-10-25T07:00:00.000Z",
+      "lastShown": "2025-06-14T20:45:00.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR09091484259893379073",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR09091484259893379073",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2024-11-01T05:20:51.000Z",
+      "lastShown": "2025-06-14T20:44:53.000Z"
+    },
+    {
+      "advertiserId": "AR06602006161547853825",
+      "creativeId": "CR08747647217038262273",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR06602006161547853825/creative/CR08747647217038262273",
+      "advertiserName": "HOME DEPOT MEXICO",
+      "domain": "homedepot.com.mx",
+      "firstShown": "2025-06-12T17:15:25.000Z",
+      "lastShown": "2025-06-14T20:44:12.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR10997628318232084481",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR10997628318232084481",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2022-12-02T19:43:29.000Z",
+      "lastShown": "2025-06-14T20:44:05.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR14919499330011267073",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR14919499330011267073",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2023-12-29T08:51:47.000Z",
+      "lastShown": "2025-06-14T20:44:01.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR05262142580430209025",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR05262142580430209025",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-06-12T17:51:36.000Z",
+      "lastShown": "2025-06-14T20:43:51.000Z"
+    },
+    {
+      "advertiserId": "AR06602006161547853825",
+      "creativeId": "CR11721460857434013697",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR06602006161547853825/creative/CR11721460857434013697",
+      "advertiserName": "HOME DEPOT MEXICO",
+      "domain": "homedepot.com.mx",
+      "firstShown": "2025-05-14T17:44:23.000Z",
+      "lastShown": "2025-06-14T20:43:40.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR05823871474649268225",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR05823871474649268225",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2021-10-25T07:00:00.000Z",
+      "lastShown": "2025-06-14T20:43:07.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR00875804167354974209",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR00875804167354974209",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2021-10-25T07:00:00.000Z",
+      "lastShown": "2025-06-14T20:43:01.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR12387434328823431169",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR12387434328823431169",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2024-11-01T04:05:37.000Z",
+      "lastShown": "2025-06-14T20:42:59.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR10897715095320657921",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR10897715095320657921",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2024-11-01T04:10:51.000Z",
+      "lastShown": "2025-06-14T20:42:51.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR07915052843042603009",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR07915052843042603009",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2022-02-01T19:20:23.000Z",
+      "lastShown": "2025-06-14T20:42:14.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR08047586634624925697",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR08047586634624925697",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2023-12-14T19:51:01.000Z",
+      "lastShown": "2025-06-14T20:41:46.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR13242922562133950465",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR13242922562133950465",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2023-09-14T22:13:32.000Z",
+      "lastShown": "2025-06-14T20:41:34.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR02965059466254352385",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR02965059466254352385",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2021-10-25T07:00:00.000Z",
+      "lastShown": "2025-06-14T20:41:01.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR17294804192468140033",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR17294804192468140033",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2023-10-07T03:26:54.000Z",
+      "lastShown": "2025-06-14T20:40:59.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR15150224887253041153",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR15150224887253041153",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2024-11-01T04:29:46.000Z",
+      "lastShown": "2025-06-14T20:40:38.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR08173218241963884545",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR08173218241963884545",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2023-03-09T17:12:13.000Z",
+      "lastShown": "2025-06-14T20:40:35.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR15557698536387641345",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR15557698536387641345",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-02-10T05:02:26.000Z",
+      "lastShown": "2025-06-14T20:40:27.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR00648636492301729793",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR00648636492301729793",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-04-01T04:01:44.000Z",
+      "lastShown": "2025-06-14T20:40:18.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR07712401597229170689",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR07712401597229170689",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-02-10T05:02:26.000Z",
+      "lastShown": "2025-06-14T20:40:17.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR13972161159491485697",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR13972161159491485697",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-05-13T18:20:32.000Z",
+      "lastShown": "2025-06-14T20:40:15.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR03381946635729764353",
+      "format": "image",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR03381946635729764353",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-05-13T18:50:46.000Z",
+      "lastShown": "2025-06-14T20:40:14.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR08585429033867542529",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR08585429033867542529",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2024-02-29T14:42:13.000Z",
+      "lastShown": "2025-06-14T20:40:06.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR08194849861930057729",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR08194849861930057729",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2022-08-03T08:27:04.000Z",
+      "lastShown": "2025-06-14T20:40:03.000Z"
+    },
+    {
+      "advertiserId": "AR03827654788107993089",
+      "creativeId": "CR15398523234466922497",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR03827654788107993089/creative/CR15398523234466922497",
+      "advertiserName": "Porchlight Light Studio, LLC",
+      "domain": "homedepot.com",
+      "firstShown": "2025-05-09T15:10:09.000Z",
+      "lastShown": "2025-06-14T20:39:54.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR08238909337259474945",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR08238909337259474945",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-02-10T05:03:18.000Z",
+      "lastShown": "2025-06-14T20:39:38.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR14308688494426324993",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR14308688494426324993",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2022-04-06T07:37:09.000Z",
+      "lastShown": "2025-06-14T20:39:37.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR06834009712078356481",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR06834009712078356481",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2021-10-25T07:00:00.000Z",
+      "lastShown": "2025-06-14T20:39:32.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR13073087099844952065",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR13073087099844952065",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2025-04-01T04:02:43.000Z",
+      "lastShown": "2025-06-14T20:39:10.000Z"
+    },
+    {
+      "advertiserId": "AR16637742331541323777",
+      "creativeId": "CR07656308757407727617",
+      "format": "text",
+      "adUrl": "https://adstransparency.google.com/advertiser/AR16637742331541323777/creative/CR07656308757407727617",
+      "advertiserName": "Home Depot U.S.A. Inc.",
+      "domain": "homedepot.com",
+      "firstShown": "2021-10-25T07:00:00.000Z",
+      "lastShown": "2025-06-14T20:39:08.000Z"
+    }
+  ],
+  "cursor": "CgoAP7znIcdhyP4HEhC9diCXsGxYzmgeHjQAAAAAGgn8%2BJUy%2BD913SU%3D",
+  "success": true,
+  "statusCode": 200
+}

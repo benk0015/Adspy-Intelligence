@@ -1,0 +1,163 @@
+{
+  "success": true,
+  "ads": [
+    {
+      "id": "676232834",
+      "advertiser": "The Home Depot",
+      "adType": "Carousel Ad",
+      "poster": "The Home Depot",
+      "url": "https://www.linkedin.com/ad-library/detail/676232834",
+      "image": "https://media.licdn.com/dms/image/v2/D4E10AQFCKhjaobD-jQ/image-shrink_1280/B4EZblnFR2HMAE-/0/1747608950073?e=2147483647&v=beta&t=qF8kidlJRnBGbS3XRsJmnIpZzw8DVBmM12a7dUphL0U",
+      "headline": "One partner. Every job. Get materials, bulk pricing, delivery and Pro support—all from The Home Depot. Let’s get it done…",
+      "cta": null,
+      "description": null,
+      "date": null
+    },
+    {
+      "id": "552356654",
+      "advertiser": "The Home Depot",
+      "adType": "Carousel Ad",
+      "poster": "The Home Depot",
+      "url": "https://www.linkedin.com/ad-library/detail/552356654",
+      "image": "https://media.licdn.com/dms/image/v2/D4E1DAQHRxpmOhO7smQ/ssu-carousel-card-shrink_1080_1080/ssu-carousel-card-shrink_1080_1080/0/1734710327564?e=1750543200&v=beta&t=IZLSnthT01uQ-2nS6wwX_jVQHardzWZoIkh4RXkQzTY",
+      "headline": "Keep your job on time and on budget with lower-than-shelf pricing and delivery straight to your job site.",
+      "cta": null,
+      "description": null,
+      "date": null
+    },
+    {
+      "id": "552317324",
+      "advertiser": "The Home Depot",
+      "adType": "Carousel Ad",
+      "poster": "The Home Depot",
+      "url": "https://www.linkedin.com/ad-library/detail/552317324",
+      "image": "https://media.licdn.com/dms/image/v2/D4E1DAQG1VatC9BcrRA/ssu-carousel-card-shrink_1080_1080/ssu-carousel-card-shrink_1080_1080/0/1734709184506?e=1750543200&v=beta&t=fWLA-YLIphgdRPe6g8cH0NTi5-uYTM4quMzGf2TcQ_s",
+      "headline": "Keep your job on time and on budget with lower-than-shelf pricing and delivery straight to your job site.",
+      "cta": null,
+      "description": null,
+      "date": null
+    },
+    {
+      "id": "673023464",
+      "advertiser": "The Home Depot",
+      "adType": "Video Ad",
+      "poster": "The Home Depot",
+      "url": "https://www.linkedin.com/ad-library/detail/673023464",
+      "image": "https://media.licdn.com/dms/image/v2/D4E10AQGTu4pOYJ44hg/videocover-high/B4EZbls2RlHMCE-/0/1747610470062/FY25Q2_PRO_LKD_OTH_THDRTB_TLNT_VID_LFTSTY_15S_SNDMS_OnePartner1mp4?e=2147483647&v=beta&t=gEFRb7Ofp0VCZ2o-7PTGEQOBrx1lw1aMVjfA8cFRFbU",
+      "headline": "",
+      "cta": "One Partner. Every Product. Delivered When and Where You Need It.",
+      "description": null,
+      "date": null
+    },
+    {
+      "id": "673081184",
+      "advertiser": "The Home Depot",
+      "adType": "Video Ad",
+      "poster": "The Home Depot",
+      "url": "https://www.linkedin.com/ad-library/detail/673081184",
+      "image": "https://media.licdn.com/dms/image/v2/D4E10AQH0gLzy0uMQsg/videocover-high/B4EZbluBPVHYCE-/0/1747610776935/FY25Q2_PRO_LKD_OTH_THDRTB_TLNT_VID_LFTSTY_15S_SNDMS_Delivery1mp4?e=2147483647&v=beta&t=idP0rJ_YRDPAsNoB3lOAwTHaRFxf6-purR35UBPIunw",
+      "headline": "",
+      "cta": "The Whole Job Delivered—Today, Tomorrow or Any Day You Need.",
+      "description": null,
+      "date": null
+    },
+    {
+      "id": "673023404",
+      "advertiser": "The Home Depot",
+      "adType": "Carousel Ad",
+      "poster": "The Home Depot",
+      "url": "https://www.linkedin.com/ad-library/detail/673023404",
+      "image": "https://media.licdn.com/dms/image/v2/D4E10AQEvwr84MoFRig/image-shrink_1080_1080/B4EZbPxFSYHwAk-/0/1747242473583?e=2147483647&v=beta&t=V0KMdsy_s3q-Q-7Vf7-OI9MDOUPICzZQpQXG8p8hDpE",
+      "headline": "Multiple jobs are hard. One partner makes it easier. Get pricing, tools and delivery built for Pros.",
+      "cta": null,
+      "description": null,
+      "date": null
+    },
+    {
+      "id": "552297834",
+      "advertiser": "The Home Depot",
+      "adType": "Carousel Ad",
+      "poster": "The Home Depot",
+      "url": "https://www.linkedin.com/ad-library/detail/552297834",
+      "image": "https://media.licdn.com/dms/image/v2/D4E1DAQH8oY-hyvbMXA/ssu-carousel-card-shrink_1080_1080/ssu-carousel-card-shrink_1080_1080/0/1734710650536?e=1750543200&v=beta&t=TZsXwxIFxnBudHbOsX3W_oM_0fJpgd_eaq4AC2K6AD4",
+      "headline": "It’s our business to support yours. Get everything your job requires with dedicated support from The Home Depot.",
+      "cta": null,
+      "description": null,
+      "date": null
+    },
+    {
+      "id": "552347154",
+      "advertiser": "The Home Depot",
+      "adType": "Carousel Ad",
+      "poster": "The Home Depot",
+      "url": "https://www.linkedin.com/ad-library/detail/552347154",
+      "image": "https://media.licdn.com/dms/image/v2/D4E1DAQHA3WE09j8eeg/ssu-carousel-card-shrink_1080_1080/ssu-carousel-card-shrink_1080_1080/0/1734709630605?e=1750543200&v=beta&t=gFN0S5p0s3Jz7RysHoeOACrJYY3NWfG5nSCyAJppu6E",
+      "headline": "It’s our business to support yours. Get everything your job requires with dedicated support from The Home Depot.",
+      "cta": null,
+      "description": null,
+      "date": null
+    },
+    {
+      "id": "676270054",
+      "advertiser": "The Home Depot",
+      "adType": "Carousel Ad",
+      "poster": "The Home Depot",
+      "url": "https://www.linkedin.com/ad-library/detail/676270054",
+      "image": null,
+      "headline": "One partner. Every job. Get materials, bulk pricing, delivery and Pro support—all from The Home Depot. Let’s get it done…",
+      "cta": null,
+      "description": null,
+      "date": null
+    },
+    {
+      "id": "673033654",
+      "advertiser": "The Home Depot",
+      "adType": "Video Ad",
+      "poster": "The Home Depot",
+      "url": "https://www.linkedin.com/ad-library/detail/673033654",
+      "image": "https://media.licdn.com/dms/image/v2/D4E10AQGTu4pOYJ44hg/videocover-high/B4EZbls2RlHMCE-/0/1747610470062/FY25Q2_PRO_LKD_OTH_THDRTB_TLNT_VID_LFTSTY_15S_SNDMS_OnePartner1mp4?e=2147483647&v=beta&t=gEFRb7Ofp0VCZ2o-7PTGEQOBrx1lw1aMVjfA8cFRFbU",
+      "headline": "",
+      "cta": "One Partner. Every Product. Delivered When and Where You Need It.",
+      "description": null,
+      "date": null
+    },
+    {
+      "id": "672994034",
+      "advertiser": "The Home Depot",
+      "adType": "Carousel Ad",
+      "poster": "The Home Depot",
+      "url": "https://www.linkedin.com/ad-library/detail/672994034",
+      "image": "https://media.licdn.com/dms/image/v2/D4E10AQFo-OTiXGWk4g/image-shrink_1080_1080/B4EZbl4JAkHMAk-/0/1747613422228?e=2147483647&v=beta&t=wbvYXjloyVJa846EA_IwL4a5bjA_dWNWhXBQ5W9btAg",
+      "headline": "From siding and framing to roofing and flooring, keep all of your jobs on track and on budget with The Home Depot.",
+      "cta": null,
+      "description": null,
+      "date": null
+    },
+    {
+      "id": "673033644",
+      "advertiser": "The Home Depot",
+      "adType": "Video Ad",
+      "poster": "The Home Depot",
+      "url": "https://www.linkedin.com/ad-library/detail/673033644",
+      "image": "https://media.licdn.com/dms/image/v2/D4E10AQH0gLzy0uMQsg/videocover-high/B4EZbluBPVHYCE-/0/1747610776935/FY25Q2_PRO_LKD_OTH_THDRTB_TLNT_VID_LFTSTY_15S_SNDMS_Delivery1mp4?e=2147483647&v=beta&t=idP0rJ_YRDPAsNoB3lOAwTHaRFxf6-purR35UBPIunw",
+      "headline": "",
+      "cta": "The Whole Job Delivered—Today, Tomorrow or Any Day You Need.",
+      "description": null,
+      "date": null
+    },
+    {
+      "id": "673013454",
+      "advertiser": "The Home Depot",
+      "adType": "Carousel Ad",
+      "poster": "The Home Depot",
+      "url": "https://www.linkedin.com/ad-library/detail/673013454",
+      "image": null,
+      "headline": "Multiple jobs are hard. One partner makes it easier. Get pricing, tools and delivery built for Pros.",
+      "cta": null,
+      "description": null,
+      "date": null
+    }
+  ],
+  "paginationToken": "354980254-1707722284000",
+  "isLastPage": true
+}

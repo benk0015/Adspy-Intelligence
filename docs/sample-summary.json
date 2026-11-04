@@ -1,0 +1,90 @@
+{
+  "linkedin": {
+    "records": 13,
+    "keys": [
+      "success",
+      "ads",
+      "paginationToken",
+      "isLastPage"
+    ],
+    "first_record_keys": [
+      "id",
+      "advertiser",
+      "adType",
+      "poster",
+      "url",
+      "image",
+      "headline",
+      "cta",
+      "description",
+      "date"
+    ]
+  },
+  "google": {
+    "records": 40,
+    "keys": [
+      "ads",
+      "cursor",
+      "success",
+      "statusCode"
+    ],
+    "first_record_keys": [
+      "advertiserId",
+      "creativeId",
+      "format",
+      "adUrl",
+      "advertiserName",
+      "domain",
+      "firstShown",
+      "lastShown"
+    ]
+  },
+  "meta": {
+    "records": 22,
+    "keys": [
+      "results",
+      "searchResultsCount",
+      "cursor"
+    ],
+    "first_record_keys": [
+      "ad_archive_id",
+      "page_id",
+      "snapshot",
+      "is_active",
+      "has_user_reported",
+      "report_count",
+      "menu_items",
+      "state_media_run_label",
+      "page_is_deleted",
+      "page_name",
+      "ad_id",
+      "archive_types",
+      "categories",
+      "collation_count",
+      "collation_id",
+      "contains_digital_created_media",
+      "contains_sensitive_content",
+      "currency",
+      "end_date",
+      "entity_type",
+      "fev_info",
+      "gated_type",
+      "hidden_safety_data",
+      "hide_data_status",
+      "impressions_with_index",
+      "is_aaa_eligible",
+      "is_profile_page",
+      "political_countries",
+      "publisher_platform",
+      "reach_estimate",
+      "regional_regulation_data",
+      "spend",
+      "start_date",
+      "targeted_or_reached_countries",
+      "total_active_time",
+      "url",
+      "start_date_string",
+      "end_date_string"
+    ]
+  }
+}

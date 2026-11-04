@@ -1,0 +1,85 @@
+# Node.js / JavaScript / TypeScript
+node_modules/
+.env
+.env.local
+.env.production
+dist/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+APIs/test.py
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg/
+.venv/
+venv/
+env/
+Pipfile.lock
+
+# Environment variables / secrets
+.env
+.env.*
+*.secret
+*.key
+*.pem
+credentials.json
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.sw?
+*.bak
+*.tmp
+*.code-workspace
+
+# Output artifacts
+dist/
+build/
+out/
+output/
+*.csv
+*.sqlite
+*.db
+*.pdf
+
+# Logs and cache
+*.log
+logs/
+*.cache
+.cache/
+tmp/
+temp/
+
+# Screenshots / images from scraping
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# Test / coverage reports
+coverage/
+*.lcov
+*.cover
+*.report
+test-results/
+*report/
+
+# Docker / CI
+.docker/
+docker-compose.override.yml
+
+# Notebooks / Jupyter
+.ipynb_checkpoints/
+
+# Misc
+*.swp
+# Versioned portfolio documentation and configuration templates
+!.env.example
+!docs/screenshots/
+!docs/screenshots/*.png
